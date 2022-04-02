@@ -2,3 +2,4 @@ this is initial commit.
 this is the commit going inside featureA.
 this is the second commit inside featureA.
 this is the first commit inside the featureB.
+second commit inside featureB and this is going to do recursive merging.
